@@ -405,7 +405,7 @@ content:"...";
 					<i class="mr_left_bg"></i>
 					<i class="mr_right_bg"></i>
 					<div class="mr_p_name mr_w604 clearfixs">
-						<span class="mr_name">季豪</span>
+						<span class="mr_name">季豪</span><span class="mr_intro">(Kuro1)</span>
 					</div>
 					<div class="mr_p_introduce mr_w604 clearfixs">
 						<span class="mr_intro">C/C++/java/Android/Ruby</span>
@@ -453,7 +453,7 @@ content:"...";
 								<div class="clearfixs">
 									<div class="mr_content_l">
 										<div class="l2">
-											<h4>北航-Google Android实验室</h4>
+											<h4>北航-google Android实验室</h4>
 											<span>前端开发</span>
 										</div>
 									</div>
@@ -650,38 +650,38 @@ content:"...";
 								</div>
 							</div>
 							<div class="mr_moudle_content">
-																<div class="mr_skill_con">
-									<span class="mr_skill_name" title="Android">Android</span>
-									<span class="mr_skill_plan" data-skillLevel = "77">
-									 <em style="width: 77%"></em>
-									</span>
-									<span class="mr_skill_level">精通</span>
-								</div>	
 								<div class="mr_skill_con">
-									<span class="mr_skill_name" title="C/C++">C/C++</span>
-									<span class="mr_skill_plan" data-skillLevel = "47">
-									 <em style="width: 47%"></em>
+									<span class="mr_skill_name" title="C">C</span>
+									<span class="mr_skill_plan" data-skillLevel = "70">
+									 <em style="width: 65%"></em>
 									</span>
 									<span class="mr_skill_level">掌握</span>
 								</div>	
 								<div class="mr_skill_con">
-									<span class="mr_skill_name" title="Java">Java</span>
+									<span class="mr_skill_name" title="C++">C++</span>
+									<span class="mr_skill_plan" data-skillLevel = "60">
+									 <em style="width: 60%"></em>
+									</span>
+									<span class="mr_skill_level">熟悉</span>
+								</div>	
+								<div class="mr_skill_con">
+									<span class="mr_skill_name" title="JAVA">JAVA</span>
 									<span class="mr_skill_plan" data-skillLevel = "75">
 									 <em style="width: 75%"></em>
 									</span>
 									<span class="mr_skill_level">精通</span>
 								</div>	
 								<div class="mr_skill_con">
-									<span class="mr_skill_name" title="JSP">JSP</span>
-									<span class="mr_skill_plan" data-skillLevel = "66">
-									 <em style="width: 66%"></em>
+									<span class="mr_skill_name" title="Android">Android</span>
+									<span class="mr_skill_plan" data-skillLevel = "79">
+									 <em style="width: 79%"></em>
 									</span>
 									<span class="mr_skill_level">精通</span>
 								</div>	
 								<div class="mr_skill_con">
 									<span class="mr_skill_name" title="Ruby">Ruby</span>
-									<span class="mr_skill_plan" data-skillLevel = "30">
-									 <em style="width: 30%"></em>
+									<span class="mr_skill_plan" data-skillLevel = "59">
+									 <em style="width: 59%"></em>
 									</span>
 									<span class="mr_skill_level">熟悉</span>
 								</div>	

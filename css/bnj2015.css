@@ -1,4 +1,4 @@
-/* 
+﻿/* 
 	这个是b2233的设计 
 */
 
@@ -107,7 +107,7 @@
     position: absolute;
     top: 50px;
     opacity: 0;
-    z-index: 1000;
+    z-index: 1000000;
 }
 .communication.b22 {
     left: 260px;
