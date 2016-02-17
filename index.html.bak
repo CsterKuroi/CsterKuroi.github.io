@@ -415,7 +415,7 @@ content:"...";
 						<span class="mr_name">季豪</span>
 					</div>
 					<div class="mr_p_introduce mr_w604 clearfixs">
-						<span class="mr_intro">C/C++/java/Android/Ruby</span>
+						<span class="mr_intro">@Kuro1</span>
 					</div>
 					<div class="mr_p_info mr_infoed mr_w604 clearfixs">		
 						<div class="info_t">
@@ -431,13 +431,12 @@ content:"...";
 						<div class="info_t">
 							<span class="base_info"><i></i>男&nbsp;&nbsp;&nbsp;21岁&nbsp;&nbsp;&nbsp;本科 大三<span class="birth_span dn">1994.08年出生</span>&nbsp;&nbsp;&nbsp;浙江</span></div>
 						<div class="info_b">
-							<span class="mobile"><i></i>13051570168</span>&nbsp;&nbsp;
-							<span class="email"><i></i>kuro1@foxmail.com</span>&nbsp;&nbsp; BUAA@SCSE1306er</div>
+							<span class="mobile"><i></i>13051570168</span>
+							<span class="email"><i></i>kuro1@kuro1.com</span>&nbsp;&nbsp;&nbsp;BUAA</div>
 						<div class="mr_sns">
 						<!--   -------------------社交账号     -----------------       -->
 							<a href="http://github.com/CsterKuroi" target="_blank" data-sns="6" data-site="http://github.com/CsterKuroi"><span><em></em></span></a>
-							<a href="http://www.zhihu.com/people/Kur01" target="_blank" data-sns="7" data-site="http://www.zhihu.com/people/Kur01"><span><em></em></span></a>
-							<a href="http://weibo.com/wowcster" target="_blank" data-sns="10" data-site="http://weibo.com/wowcster"><span><em></em></span></a>
+							
 						</div>
 					</div>	
 				</div>
@@ -471,10 +470,10 @@ content:"...";
 								
 								<div class="mr_content_m olpf">
 									<ul>
- <li>云销售CRM客户关系管理系统</li>
+ <li>云销售CRM</li>
  <li>开发环境：Android Studio</li>
- <li>项目描述：销售人员助理型APP，公司业务流程移动化。</li>
- <li>责任描述：负责Andorid端多个模块的设计和实现，本地SQLite数据库缓存实现，与云端服务器的交互实现。</li>
+ <li>项目描述：客户关系管理系统，销售人员助理型APP，协助公司业务流程移动化。</li>
+ <li>责任描述：负责Andorid端合同、机会、销售业绩统计等模块的设计及实现，签到模块的优化，SQLite本地缓存优化，与阿里云服务器的交互。</li>
  <!-- <li>代码托管：<a target="_blank" href="http://github.com/CsterKuroi/android-trial">github.com/CsterKuroi/android-trial</a></li> -->
 </ul>
 								</div>	
@@ -532,75 +531,30 @@ content:"...";
 								<div class="clearfixs">
 									<div class="mr_content_l">
 										<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://github.com/CsterKuroi/yukariMini-SSP"><span></span>伪春菜开源合作项目</a>
-											<p>程序猿</p>
+											<a class="projectTitle"  target="_blank" href="http://github.com/CsterKuroi/yukariMini-SSP"><span></span>伪春菜合作项目</a>
+											<p>主催/coder/ghost</p>
 										</div>
 									</div>
 									
 									<div class="mr_content_r">
-										<span>2014.12 -- 至今</span>
+										<span>2014.12 -- 2015.9</span>
 									</div>							
 								</div>
 								<div class="mr_content_m olpf">
 									<ul>
  <li>yukariMini-SSP</li>
  <li>开发环境：WINDOWS/Sakura Script Player/AYA-shiori</li>
- <li>项目简介：面向以@小缘粉丝为主要用户群体的桌面精灵养成软件</li>
- <li>合作者：//配音：Bilibili网络翻唱歌姬@小缘喵 //UI设计：pixiv画师@kuki菌</li>
- <li>责任描述：ghost（伪AI人格）构造，shell（外壳）代码接口</li>
- <li>代码托管：<a target="_blank" href="http://github.com/CsterKuroi/yukariMini-SSP">github.com/CsterKuroi/yukariMini-SSP</a></li>
+ <li>项目描述：Bilibili知名唱见<a target="_blank" href="http://weibo.com/yukarinyan">@小缘喵</a>的伪春菜</li>
+ <li>配音：@小缘喵  UI：@kuki菌</li>
+ <li>开源托管：<a target="_blank" href="http://github.com/CsterKuroi/yukariMini-SSP">Github</a></li>
 </ul>
 								</div>	
 								</div>	
 							</div>						
 						</div>
 					</div>
-					<!--                 作品展示                                                -->
-					<!--<div id="worksShow">
-						<div>
-							<div class="mr_moudle_head clearfixs">
-								<div class="mr_head_l">
-									<div class="mr_title">
-									<span class="mr_title_l"></span><span class="mr_title_c">个人主页</span><span class="mr_title_r"></span>
-									</div>
-								</div>
-							</div>
-							<div class="mr_moudle_content">
-<div class="mr_moudle_content" id="projectList">
-								<div class="mr_jobe_list">
-								<div class="clearfixs">
-									<div class="mr_content_l">
-										<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://www.acfun.tv/u/kuro1"><span></span>AcFun</a>
-										</div>
-										<br>
-										<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://space.bilibili.com/2828630/"><span></span>Bilibili</a>
-											</div>
-											<br>
-											<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://my.csdn.net/csterkuroi"><span></span>CSDN</a>
-											</div>
-											<br>
-											<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://www.douyutv.com/331421"><span></span>douyutv</a>
-											</div>
-											<br>
-											<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://www.nicovideo.jp/user/48476383"><span></span>niconico</a>
-											</div>
-											<br>
-											<div class="l2">
-											<a class="projectTitle"  target="_blank" href="http://www.douban.com/people/138379637/"><span></span>豆瓣</a>
-											</div>
-																					</div>
-									</div>
-								</div>	
-							</div>
-						</div>
-					</div>	-->
 					<!--               自我描述                                             -->
-					<div id="selfDescription">
+					<!-- <div id="selfDescription">
 						<div>
 							<div class="mr_moudle_head clearfixs">
 								<div class="mr_head_l">
@@ -611,7 +565,7 @@ content:"...";
 							</div>
 							<div class="mr_moudle_content clearfixs">
 								<div class="mr_self_l">
-									<!-- 自我描述头像为基本信息页面上传的头像，稍后和后台确认这个 -->
+									
 									<i></i>
 									<img src="http://www.lagou.com/image2/M00/24/41/CgpzWlaMFXqAYoT3AAAooOXZxks265.jpg" alt="季豪"/>
 								</div>	
@@ -620,7 +574,7 @@ content:"...";
 							  </div>														
 							</div>						
 						</div>
-					</div>					
+					</div>					 -->
 					<!--                   期望工作                                                  -->
 					<div id="expectJob">
 						<div>
