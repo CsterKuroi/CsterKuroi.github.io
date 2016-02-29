@@ -1,2 +1,2 @@
 # CsterKuroi.github.io
-Kuro1
+Kuro1.com
