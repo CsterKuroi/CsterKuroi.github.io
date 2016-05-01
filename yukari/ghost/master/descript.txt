@@ -1,0 +1,13 @@
+﻿charset,UTF-8
+name,小缘喵
+type,ghost
+craftman,Kuro1
+craftmanw,Kuro1
+
+sakura.name,小缘喵
+
+
+sstp.allowunspecifiedsend,1
+icon,xiaoyuanmiao.ico
+shiori,yaya.dll
+;shiori,aya5.dll
