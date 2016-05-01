@@ -1,8 +1,0 @@
-charset,UTF-8
-craftman,kuki
-name,master
-type,shell
-directory,yujie
-
-
-

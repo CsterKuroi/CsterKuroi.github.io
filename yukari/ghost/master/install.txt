@@ -1,5 +1,0 @@
-﻿charset,UTF-8
-type,supplement
-name,小缘喵
-accept,小缘喵
-directory,ghost/master
