@@ -2,8 +2,8 @@ kuro1.com
 问题及反馈信息请邮件至kuro1@kuro1.com
 ===========
 更新日志
-2016.05.01 relaese 1.02
-线上更新测试文件
+
+1.02
 
 2016.05.01 relaese 1.01
 craftman更新
