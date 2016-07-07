@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 张达棣
-tagline: 这里是 @张达棣 的个人博客，与你一起发现更大的世界。
+title: Kuro1
+tagline: 这里是 @Kuro1 的个人博客，与你一起发现更大的世界。
 ---
 {% include JB/setup %}
 
@@ -14,13 +14,12 @@ tagline: 这里是 @张达棣 的个人博客，与你一起发现更大的世�
       			<div class="year">
       			{{ post.date | date:"%Y" }}
       			</div>
-      		</div> 
+      		</div>
 		{{ post.content  | | split:'<!--break-->' | first }}
 	<div class = "read_more">
 		<a class="fa fa-link" href="{{ BASE_PATH }}{{ post.url }}">  查看全文&hellip;</a>
 	</div>
-	
+
 </div>
 
 {% endfor %}
-
