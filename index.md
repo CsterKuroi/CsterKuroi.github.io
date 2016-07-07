@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 寂寞先生
-tagline: 这，是一个寂寞的世界……
+title: 张达棣
+tagline: 这里是 @张达棣 的个人博客，与你一起发现更大的世界。
 ---
 {% include JB/setup %}
 
