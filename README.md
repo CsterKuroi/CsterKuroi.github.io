@@ -1,4 +1,4 @@
-#jekylll blog
+#kuro1.xin
 
 * 基于jekyll的blog
 * 使用了bootstrap框架
